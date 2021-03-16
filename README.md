@@ -1,2 +1,3 @@
 # Photon
-A photo searching app utilizing an external API (Pexels)
+A photo searching app fetching an external API (Pexels).
+CSS, HTML & JavaScript.
